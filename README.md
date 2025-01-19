@@ -26,6 +26,12 @@ index.js에서 연동 후 NoteDetail에서 dispatch로 받음 <br/>
 ## 날짜 설정 & 입력정보 저장 <br/> 
 
 ◆ "date-fns"로 설정 <br/> 
-◆ Empty.jsx 생성 
+◆ Empty.jsx 생성 <br/> 
+
+## 글 추가 & 리스트 정렬 <br/> 
+
+◆ 글이 하나도 없을 시 글 생성을 통해 글 작성 <br/> 
+◆ sort함수와 Date의 크기비교로 정렬(최신순) <br/> 
+◆ localeCompare을 사용해서 (이름순)
 
 
