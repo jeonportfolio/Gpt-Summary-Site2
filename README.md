@@ -32,6 +32,14 @@ index.js에서 연동 후 NoteDetail에서 dispatch로 받음 <br/>
 
 ◆ 글이 하나도 없을 시 글 생성을 통해 글 작성 <br/> 
 ◆ sort함수와 Date의 크기비교로 정렬(최신순) <br/> 
-◆ localeCompare을 사용해서 (이름순)
+◆ localeCompare을 사용해서 (이름순)<br/> 
+
+## 파이어베이스 배포하기<br/>
+◆ `npm install firebase` & `npm install -g firebase-tools` 설치<br/> 
+
+## 테스트코드 작성하기 <br/>
+◆ `npm install -D vitest @testing-library/react @testing-library/user-event @testing-library/jest-dom jsdom`
+
+
 
 
